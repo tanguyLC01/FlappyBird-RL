@@ -1,0 +1,5 @@
+flappy_bird_gymnasium==0.4.0
+gymnasium==1.1.1
+numpy==2.2.4
+opencv_python==4.11.0.86
+torch==2.6.0
